@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "caf",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "repo": "https://github.com/Luckybalabala/android_gki_kernel_5.10_common",
+      "branch": "android12-5.10",
+      "device": "gki",
+      "defconfig": "gki_defconfig"
   },
     "toolchains": [
       {
